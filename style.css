@@ -87,19 +87,3 @@ section #editor_header {
 .underline {
     text-decoration: underline;
 }
-
-.left_align {
-    text-align: left;
-}
-
-.right_align {
-    text-align: right;
-}
-
-.center_align {
-    text-align: center;
-}
-
-.justify_align {
-    text-align: justify;
-}
